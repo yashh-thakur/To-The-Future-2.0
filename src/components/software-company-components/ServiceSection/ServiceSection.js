@@ -22,7 +22,7 @@ const ServiceSection = (props) => {
                         Our Services
                     </div>
                     <h2 className="heading_text mb-0">
-                        How We Can <mark>Help</mark> You
+                        How We Can <mark>Empower</mark> You
                     </h2>
                 </div>
 

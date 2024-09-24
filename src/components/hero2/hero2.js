@@ -19,22 +19,23 @@ const Hero2 = (props) => {
                     <div className="col-lg-6">
                         <div className="content_wrap">
                             <div className="heading_focus_text has_underline text-white d-inline-flex" style={{ backgroundImage: `url(${Bg})` }}>
-                                Perfect Company Solution
+                            Complete Business Solution
                             </div>
                             <h1 className="text-white">
-                                We Help Companies in <mark>Digitizing</mark> Their Businesses.
+                            We specialize in helping businesses transition to <mark>Digital Platforms.</mark>
+                                {/* We Help Companies in <mark>Digitizing</mark> Their Businesses. */}
                             </h1>
                             <p>
-                                In today's rapidly evolving digital landscape, staying ahead of the curve is essential for businesses aiming to thrive and succeed.
+                                In the fast-paced digital world, staying ahead is crucial for businesses striving for success.
                             </p>
                             <ul className="step_list text-white unordered_list_block">
-                                <li>Focus on quality first</li>
-                                <li>Get to the market on time</li>
+                                <li>Leading with a commitment to quality</li>
+                                <li>Hit the market at the perfect time</li>
                             </ul>
                             <ul className="btns_group unordered_list p-0 justify-content-start">
                                 <li>
                                     <a className="btn" href="pricing.html">
-                                        <span className="btn_label" data-text="Contact Us Today!">Contact Us Today!</span>
+                                        <span className="btn_label" data-text="Contact Us!">Contact Us!</span>
                                         <span className="btn_icon">
                                             <i className="fa-solid fa-arrow-up-right"></i>
                                         </span>
@@ -46,8 +47,8 @@ const Hero2 = (props) => {
                                             <i className="fa-solid fa-phone-volume"></i>
                                         </span>
                                         <span className="hotline_content">
-                                            <small>CONTACT US DAILY</small>
-                                            <strong className="text-white">(+420) 318 568 511</strong>
+                                            <small>CONTACT US!</small>
+                                            <strong className="text-white">+91 8559988992</strong>
                                         </span>
                                     </a>
                                 </li>
