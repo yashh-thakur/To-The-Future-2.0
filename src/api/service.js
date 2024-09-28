@@ -71,47 +71,57 @@ const Services = [
         col:'col-lg-4',
         description:'Expert Guidance for a Seamless Immigration Journey Expert Guidance...',
     },
+    // done
     {
         Id: '6',
         sImg:icon1,
-        title: 'Custom Software Development',
-        slug: 'Custom Software Development',
-        features: ['Software architecture design', 'System integration services', 'Data migration services', 'Legacy app modernization']
+        title: 'Custom-Built Software for Your Needs',
+        slug: 'Custom-Built Software for Your Needs',
+        features: ['Structured Software Architecture', 'Unified System Integration Services', 'Data Transfer Services', 'Legacy System Transformation']
     },
+    
+    // done
     {
         Id: '7',
-        sImg:icon2,
-        title: 'Audit & IT Consulting Services',
-        slug: 'Audit-&-IT-Consulting-Services',
-        features: ['TechGuard Audit', 'CyberSafe Audit & IT Consulting', 'AssuranceEdge & IT Consulting', 'IT Sentry Audit & IT Consulting']
+        sImg:icon3,
+        title: 'Web App Design and Development',
+        slug: 'Web App Design and Development',
+        features: ['Innovative Web App Development', 'Expert Web Portal Development', 'Expert Website Development', 'Global Web Development Solutions']
     },
+    // done
     {
         Id: '8',
-        sImg:icon3,
-        title: 'Web Application Design and Development',
-        slug: 'Web-Application-Design-and-Development',
-        features: ['Web app development services', 'Web portal development services', 'Website development services', 'Offshore web development']
+        sImg:icon4,
+        title: 'Mobile Application Development',
+        slug: 'Mobile Application Development',
+        features: ['iOS app development services','Android app development','Enterprise mobile app development', 'Mobile app design & developement' ]
     },
+    // done
+
     {
         Id: '9',
-        sImg:icon4,
-        title: 'Mobile App Design and Development',
-        slug: 'Mobile-App-Design-and-Development',
-        features: ['Android development services', 'iOS app development services', 'Mobile application design services', 'Enterprise mobile app development']
+        sImg:icon5,
+        title: 'Exceptional UI/UX Design Services',
+        slug: 'Exceptional UI/UX Design Services',
+        features: ['Crisp-Exact Design', 'Creative UI/UX Craft', 'Formed UI/UX Layout', 'SystemWit UI/UX Plan']
     },
+    // done
+    
     {
         Id: '10',
-        sImg:icon5,
-        title: 'Best UI/UX Design Services',
-        slug: 'Best-UI/UX-Design-Services',
-        features: ['PixelPerfection UI/UX Design', 'DesignCraft UI/UX Design', 'CreativeWave UI/UX Design', 'InterfaceGenius UI/UX Design']
-    },
-    {
-        Id: '11',
         sImg:icon6,
         title: 'Maintenance and Customer Support',
         slug: 'Maintenance-and-Customer-Support',
-        features: ['CareCraft Maintenance', 'FixItPro Maintenance', 'TechCare Maintenance', 'AssistEdge Maintenance']
+        features: ['AidWorks Upkeep', 'MendItExpert Care', 'GadgetAid Support', 'HelpLine Service']
+    },
+    // done
+
+    {
+        Id: '11',
+        sImg:icon2,
+        title: 'IT Consulting and Audit Expertise',
+        slug: 'IT Consulting and Audit Expertise',
+        features: ['DataGuard Assessment', 'Data secure Audit', 'Edge Assurance & IT Consulting', 'Sentry Audit & IT Consulting']
     },
     {
         Id: '12',
